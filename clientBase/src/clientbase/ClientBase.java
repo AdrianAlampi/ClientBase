@@ -6,7 +6,6 @@
 package clientbase;
 
 import java.io.*;
-import static java.lang.Thread.sleep;
 import java.net.*;
 import java.util.Scanner;
 import java.util.logging.Level;
