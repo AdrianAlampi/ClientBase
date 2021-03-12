@@ -48,7 +48,6 @@ public class ClientBase {
         } catch (IOException ex) {
             Logger.getLogger(ClientBase.class.getName()).log(Level.SEVERE, null, ex);
         }
-        System.out.println("prova virtual studio code");
     }
 
 }
